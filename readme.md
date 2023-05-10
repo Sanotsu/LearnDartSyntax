@@ -6,11 +6,14 @@
 
 和官网[Dart 开发语言概览](https://dart.cn/guides/language/language-tour)没什么区别，只是希望我过了这么一遍之后，就真能进入到我的脑中了......
 
+2022-03-24 之前并未看完所有，只到了 “类”部分。此时再学习，dart 已更新到 2.16 版本了。可参看`learn-dart-2.x`部分。
+
+2023-05-10 但这一切都是官网"Dart 开发语言概览"的内容，直接看官网最好。
+
 ---
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 
 - [重要概念](#%E9%87%8D%E8%A6%81%E6%A6%82%E5%BF%B5)
 - [关键词](#%E5%85%B3%E9%94%AE%E8%AF%8D)
@@ -43,7 +46,7 @@
   - [条件表达式](#%E6%9D%A1%E4%BB%B6%E8%A1%A8%E8%BE%BE%E5%BC%8F)
   - [级联运算符（..）](#%E7%BA%A7%E8%81%94%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [流程控制语句](#%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5)
-    - [Break 和 Continue](#break-%E5%92%8C-continue)
+  - [Break 和 Continue](#break-%E5%92%8C-continue)
   - [断言 Assert](#%E6%96%AD%E8%A8%80-assert)
 - [异常](#%E5%BC%82%E5%B8%B8)
   - [捕获异常](#%E6%8D%95%E8%8E%B7%E5%BC%82%E5%B8%B8)

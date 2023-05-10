@@ -24,8 +24,8 @@ class Square implements Shape {
 
 // 虽然 CircleMock 并没有定义任何行为，但是在 Dart 中这是完全合法的，不会有任何报错。
 class CircleMock implements Circle {
-  num area;
-  num radius;
+  late num area;
+  late num radius;
 }
 
 main() {

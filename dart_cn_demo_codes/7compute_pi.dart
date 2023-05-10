@@ -27,7 +27,7 @@ Stream<double> computePi({int batch: 100000}) async* {
   }
 }
 
-Iterable<Point> generateRandom([int seed]) sync* {
+Iterable<Point> generateRandom([int? seed]) sync* {
   final random = Random(seed);
   while (true) {
     yield Point(random.nextDouble(), random.nextDouble());

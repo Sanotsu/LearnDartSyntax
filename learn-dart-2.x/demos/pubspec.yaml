@@ -1,0 +1,6 @@
+name: test_demo
+dependencies:
+  http: ^0.13.4
+  json_annotation: ^4.4.0
+environment:
+  sdk: ">=2.10.0 <3.0.0"

@@ -1,0 +1,8 @@
+name: demo
+version: 0.0.1
+description: >-
+  这里是项目描述…….
+environment:
+  sdk: ">=2.10.0 <3.0.0"
+dependencies:
+  characters: ^1.2.0
